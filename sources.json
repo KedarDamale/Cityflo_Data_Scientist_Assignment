@@ -1,0 +1,54 @@
+{
+  "position_id": "data-engineer",
+  "source": "https://careers.cityflo.com/takehomes/data-engineer/",
+  "files": [
+    {
+      "path": "BRIEF.md",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/BRIEF.md",
+      "bytes": 7686,
+      "sha256": "86c6c216070e7a5b6eeddb48555fcf2066bcc61c6f0e8814fa1c9df789099c8a"
+    },
+    {
+      "path": "DATA_GUIDE.md",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/DATA_GUIDE.md",
+      "bytes": 6955,
+      "sha256": "edfe1d9a3f1a4a223e06af7de0ee3b33af348286a262be940e7817d0456bafab"
+    },
+    {
+      "path": "HANDOFF.md",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/HANDOFF.md",
+      "bytes": 3541,
+      "sha256": "ea1152ea1e0bf9d5e6f01783435e79acec81771038e1aaa409f9fd9a1b6f61e9"
+    },
+    {
+      "path": "data/bookings.csv",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/data/bookings.csv",
+      "bytes": 17154,
+      "sha256": "e385117001aafdec735e3e483111267be2c52a6ac3e021a4b48966bb716e5726"
+    },
+    {
+      "path": "data/gps_pings.csv",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/data/gps_pings.csv",
+      "bytes": 421312,
+      "sha256": "e957f801c4f911290717f248bcf1e69bc9541a8f5fa1469fbc300d7d379b66d9"
+    },
+    {
+      "path": "data/routes.csv",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/data/routes.csv",
+      "bytes": 394,
+      "sha256": "c3aec9697d98556bee585e09982b47a8fb6a0bcfa5d9ef7b634b8aefd618af05"
+    },
+    {
+      "path": "data/stops.csv",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/data/stops.csv",
+      "bytes": 2015,
+      "sha256": "e3d313e281cb1410b8f2a9a86c344703c0b32c3a42fd5606a252cea16d524473"
+    },
+    {
+      "path": "data/trips.csv",
+      "url": "https://careers.cityflo.com/takehomes/data-engineer/data/trips.csv",
+      "bytes": 1770,
+      "sha256": "6a2151ec636f6da3e36ee30e10ce9ea2161230a3511ee45a0bb02d41039b90df"
+    }
+  ]
+}
